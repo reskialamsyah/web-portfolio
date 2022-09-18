@@ -27,9 +27,10 @@ body {
   opacity: 0;
 }
 
-.bi-list {
+.navbar-menu {
   color: #00fce9;
-  font-size: 2.5rem;
+  width: 1.875rem;
+  height: 1.875rem;
 }
 
 .btn-close {
