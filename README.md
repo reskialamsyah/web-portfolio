@@ -1,6 +1,6 @@
 ## Overview
 
-This is my source code of my web portfolio. (Last Updated on 23 February 2023
+This is my source code of my web portfolio. (Last Updated on 23 February 2023)
 
 ### Fixes
 
