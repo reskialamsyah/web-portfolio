@@ -206,7 +206,8 @@ body {
 }
 
 #about-section img {
-  width: 55%;
+  width: 50%;
+  border-radius: 8px;
 }
 
 #about-section p {
